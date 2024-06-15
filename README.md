@@ -19,10 +19,10 @@ A list of projects with descriptions being run for Capstone 2024
 | Project ID | Project Short Code | Proposal and Schedule |
 |--|--|--|
 | 1 | rpi-gpu | [Proposal & Schedule](project/rpi-gpu-project.md) |
-| 2 | high-res | [Proposal & Schedule](high-res-project.md) |
-| 3 | safety | [Proposal & Schedule](safety-project.md) |
-| 4 | live-ads | [Proposal & Schedule](live-ads-project.md) |
-| 5 | naatm | [Proposal & Schedule](network-tool-project.md) |
+| 2 | high-res | [Proposal & Schedule](project/high-res-project.md) |
+| 3 | safety | [Proposal & Schedule](project/safety-project.md) |
+| 4 | live-ads | [Proposal & Schedule](project/live-ads-project.md) |
+| 5 | naatm | [Proposal & Schedule](project/network-tool-project.md) |
 
 ## Code Bases
 

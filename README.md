@@ -12,6 +12,8 @@ A list of projects with descriptions being run for Capstone 2024
 | 3 |	Using AI to enhance construction site safety and detect if safety equipment is being used correctly	| safety |
 | 4 |	AI system to study effectiveness of advertising in shopping centres with real-time analysis and feedback | live-ads |
 | 5 | Building the best open-source network and device monitoring tool for everyone | naatm |
+| 6 | Building an automatic doorbell system with facial recognition for business. | doorbell |
+| 7 | Building multi-stage AI pipelines for vision systems. | pipeline |
 
 
 ## Project Briefs
@@ -23,6 +25,8 @@ A list of projects with descriptions being run for Capstone 2024
 | 3 | safety | [Proposal & Schedule](project/safety-project.md) |
 | 4 | live-ads | [Proposal & Schedule](project/live-ads-project.md) |
 | 5 | naatm | [Proposal & Schedule](project/network-tool-project.md) |
+| 6 | doorbell | [Proposal & Schedule](project/doorbell.md) |
+| 7 | pipeline | [Proposal & Schedule](project/pipeline.md) |
 
 ## Code Bases
 

@@ -18,15 +18,15 @@ A list of projects with descriptions being run for Capstone 2024
 
 ## Project Briefs
 
-| Project ID | Project Short Code | Proposal and Schedule |
-|--|--|--|
-| 1 | rpi-gpu | [Proposal & Schedule](project/rpi-gpu-project.md) |
-| 2 | high-res | [Proposal & Schedule](project/high-res-project.md) |
-| 3 | safety | [Proposal & Schedule](project/safety-project.md) |
-| 4 | live-ads | [Proposal & Schedule](project/live-ads-project.md) |
-| 5 | naatm | [Proposal & Schedule](project/network-tool-project.md) |
-| 6 | doorbell | [Proposal & Schedule](project/doorbell.md) |
-| 7 | pipeline | [Proposal & Schedule](project/pipeline.md) |
+| Project ID | Project Short Code | Proposal and Schedule | Type |
+|--|--|--|--|
+| 1 | rpi-gpu | [Proposal & Schedule](project/rpi-gpu-project.md) | Systems |
+| 2 | high-res | [Proposal & Schedule](project/high-res-project.md) | AI |
+| 3 | safety | [Proposal & Schedule](project/safety-project.md) | AI + WebDev |
+| 4 | live-ads | [Proposal & Schedule](project/live-ads-project.md) | AI + WebDev |
+| 5 | naatm | [Proposal & Schedule](project/network-tool-project.md) | WebDev |
+| 6 | doorbell | [Proposal & Schedule](project/doorbell.md) | Hardware + WebDev |
+| 7 | pipeline | [Proposal & Schedule](project/pipeline.md) | AI |
 
 ## Code Bases
 

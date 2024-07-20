@@ -1,11 +1,11 @@
-# Using AI to enhance construction site safety and detect if safety equipment is being used correctly
+# Using the NVIDIA people net model to detect and analyse actions on worksites
 
-This project aims to leverage AI to enhance safety on construction sites by detecting whether workers are using safety equipment correctly. The project involves developing a computer vision system capable of recognizing various safety gear, such as helmets, vests, and gloves, and ensuring they are worn properly by workers. The goal is to reduce accidents and ensure compliance with safety regulations.
+This project aims to leverage AI to enhance analytics data on constructions sites.  Knowing how many people are on site is vital to project management and project success.  The project involves developing a computer vision system capable of recognizing people in various locations using high-resolution imagery. The goal is to increase accuracy of people detection.
 
 ## Description
-You will be using a pre-compiled dataset of construction workers with various image resolutions (ranging from very large to very small – some less than 50 pixels).  Your work will be a part of a larger AI pipeline.
+You will be using the NVIDIA PeopleNet model with a pre-compiled dataset of construction workers with various image resolutions (ranging from very large to very small – some less than 50 pixels).  Your work will be a part of a larger AI pipeline.
 
-The AI model in use now is a variant of the YOLOv8 model.  This project is open-ended and will allow you to be flexible in selecting, training and utilising the model that your team feels is the best for the job.
+This project is open-ended and will allow you to be flexible in selecting, training and utilising the model that your team feels is the best for the job.
 
 The team running this capstone project expects that you will need to learn lots on the project.  We have the experience to help you with the project and teach you more about AI, software design and best practices.   Making you the best developers out there.  
 
@@ -20,7 +20,8 @@ AI is a fast-growing area, ensuring that we have accurate and reliable detection
 - Experiment with different types of models and find the best one.
 
 ## Resources
-- [YOLO Model Guides](https://docs.ultralytics.com/guides/)
+- [NVIDIA PeopleNet Overview](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/tao/models/peoplenet)
+- [Alternative Reading: YOLO Model Guides](https://docs.ultralytics.com/guides/)
 
 ## Timeline
 

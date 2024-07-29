@@ -16,7 +16,7 @@ A list of projects with descriptions being run for Capstone 2024
 | 7 | Building multi-stage AI pipelines for vision systems. | pipeline |
 | 8* | Using the NVIDIA people net model to detect and analyse actions on worksites | peoplenet |
 
-  * *Postgrad option available. 
+  * *Postgrad and Undergrad option available. 
 
 ## Project Briefs
 
